@@ -18,7 +18,7 @@
  *
  */
 
-package com.satya.demo.employee.exception;
+package com.satya.demo.employee.exception4;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -18,7 +18,7 @@
  *
  */
 
-package com.satya.demo.employee.exception;
+package com.satya.demo.employee.exception4;
 import java.util.Date;
 
 /**
